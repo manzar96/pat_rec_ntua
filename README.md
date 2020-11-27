@@ -18,5 +18,5 @@ In this exercise we experimented on a typical digit recognition system from
 In this exercise we experimented with deep learning architectures for
  implementing music genre classification and emotion recognition. Our
   provided solution in step 12, was ranked 2nd in the [corresponding](https://www.kaggle.com/c/multitask-music-classification/leaderboard) Kaggle
-   competition. We should also note that we do not provide all the training and testing data.
+   competition. We should also note that we do not provide the training and testing data.
 
